@@ -1,0 +1,66 @@
+# Python compiled files
+__pycache__
+.py[cod]
+$py.class
+.so
+
+# Cython compiled files
+.c
+.cp-win_amd64.
+.cp-linux_x86_64.
+.cp-darwin_x86_64.
+.html
+
+# Build directories
+build
+dist
+.egg-info
+
+# Setup and compilation artifacts
+setup.py.bak
+cython_debug
+
+# Virtual environments
+.env
+.venv
+venv
+env
+
+# IDE files
+.vscode
+.idea
+.swp
+.swo
+.spyproject
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+.DS_Store
+._
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Results and data files (uncomment if you want to ignore)
+# results
+# .csv
+# .json
+# .log
+# .txt
+
+# Temporary files
+.tmp
+.temp
+~
+
+# Application files (compiled executables)
+.exe
+.app
+
+# Performance profiling files
+.prof
+.pstats
